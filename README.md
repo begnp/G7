@@ -39,7 +39,7 @@ Utilize o cartão Micro SD especificado para armazenar as pastas numeradas (loca
 ### 🔌 Montagem do circuito
 Reproduza o circuito apresentado no esquemático a seguir.
 
-![Esquematico](imagens/esquematico.png)
+![Esquematico](esquematico.png)
 
 ---
 
