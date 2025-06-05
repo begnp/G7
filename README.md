@@ -42,7 +42,8 @@ Reproduza o circuito apresentado no esquemático a seguir.
 
 ![Esquematico](esquematico.png)
 
-![Prototipo Funcional](prototipo_funcional.png)
+<img src="prototipo_funcional.png" alt="Prototipo Funcional" width="700"/>
+
 ---
 
 ## 🏗 Preparando para o código
