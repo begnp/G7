@@ -7,7 +7,6 @@ Um jogo de tabuleiro, pensado para ser jogado com mãos, ouvidos e corpo, com fo
 
 ## 🤖 Preparando o Arduino
 
-
 ### 🧰 Componentes eletrônicos:
 
 - Arduino Uno R3;
@@ -22,6 +21,7 @@ Um jogo de tabuleiro, pensado para ser jogado com mãos, ouvidos e corpo, com fo
 - 12 Jumpers macho-macho;
 - 3 botões PBS-29.
 
+<!-- 
 ### ♟ Tabuleiro e Estrutura Física:
 
 - 1 base de MDF (servindo como corpo do tabuleiro);
@@ -31,6 +31,7 @@ Um jogo de tabuleiro, pensado para ser jogado com mãos, ouvidos e corpo, com fo
 - 2 peões de jogador;
 - Cola 3D;
 - Tintas: branca, preta, azul, verde e vermelha.
+-->
 
 ### 🔊 Arquivos de áudio
 Utilize o cartão Micro SD especificado para armazenar as pastas numeradas (localizadas no pasta compactada "arquivos_de_audio.zip"). Insira o cartão Micro SD no DFPlayer Mini, enquanto ele estiver desligado.<br>
